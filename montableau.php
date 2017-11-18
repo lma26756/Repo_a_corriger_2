@@ -57,21 +57,6 @@
 
 </form>
 
-<h2>Excercice formulaire</h2>
-
-<form action="#">
-<table>
-	<tr><td>Civilité</td><td>Mademoiselle <input type="radio" name="A"></td><td>Madame <input type="radio" name="B"></td><td>Monsieur <input type="radio" name="A"></td></tr>
-	<tr><td>Nom / Prénom</td><td><textarea rows="1" cols="10" name="B"></textarea></td></tr>
-	<tr><td>Adresse</td><td><textarea rows="3" cols="30"></textarea></td></tr>
-
-</table>
-	
-</form>
-
-
-
-
 
 </body>
 </html>
