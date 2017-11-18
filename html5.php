@@ -30,5 +30,6 @@
 <svg widht="200" height="200" style="background-color: rgba(200, 200, 200, 0.5);">
     <circle style="fill: none; stroke: red; stroke-width: 10px;" cx="100" cy="100" r="80"/>
 </svg>
+<p>Bonjour c'est yann</p>
 </body>
 </html>
